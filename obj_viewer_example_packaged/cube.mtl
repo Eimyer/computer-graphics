@@ -1,0 +1,4 @@
+
+# Simple cube material
+newmtl cube
+Kd 0.5 0.5 1.0
