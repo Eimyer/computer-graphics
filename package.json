@@ -1,0 +1,27 @@
+{
+  "name": "pedestrian-simulation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eimyer/computer-graphics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eimyer/computer-graphics/issues"
+  },
+  "homepage": "https://github.com/Eimyer/computer-graphics#readme",
+  "description": "",
+  "dependencies": {
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
